@@ -12,8 +12,8 @@ export const projects = _projects as {
   category?: Record<string, string>;
 };
 
-export const DEVPOOL_OWNER_NAME = "ubiquity";
-export const DEVPOOL_REPO_NAME = "devpool-directory";
+export const DEVPOOL_OWNER_NAME = "EresDevOrg";
+export const DEVPOOL_REPO_NAME = "devpool-directory-qa";
 export enum LABELS {
   PRICE = "Price",
   UNAVAILABLE = "Unavailable",

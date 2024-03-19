@@ -61,7 +61,7 @@ describe("Devpool Updates", () => {
       {
         ...issueDevpoolTemplate,
         id: 1,
-        body: "https://github.com/ubiquity/test-repo/issues/1",
+        body: "https://www.github.com/ubiquity/test-repo/issues/1",
         labels: [{ name: "Pricing: 200 USD" }, { name: "Partner: ubiquity/test-repo" }, { name: "id: 1" }, { name: "Time: 1h" }],
       },
     ]);
