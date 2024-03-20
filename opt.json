@@ -1,4 +1,4 @@
 {
-  "in": ["EresDevOrg"],
+  "in": ["EresDevOrg", "EresDevOrg/ThisRepoDoesNotExist"],
   "out": ["EresDevOrg/ignored-by-devpool"]
 }
