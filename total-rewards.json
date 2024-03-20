@@ -1,14 +1,14 @@
 {
   "rewards": {
-    "notAssigned": 100,
+    "notAssigned": 0,
     "assigned": 0,
     "completed": 0,
-    "total": 100
+    "total": 0
   },
   "tasks": {
-    "notAssigned": 1,
+    "notAssigned": 0,
     "assigned": 0,
     "completed": 0,
-    "total": 1
+    "total": 0
   }
 }
